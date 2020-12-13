@@ -1,5 +1,5 @@
-# WoG
-Wings of Glory homemade board game 
+# Wings of Glory homemade board game 
+
 <br>
 
 
