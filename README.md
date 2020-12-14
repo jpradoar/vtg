@@ -1,5 +1,18 @@
-# Wings of Glory homemade board game 
+# Wings of Glory  <img src="https://seeklogo.com/images/O/open-source-logo-55C3B4FF7B-seeklogo.com.png" height="60" with="60"> (Juego de mesa)
+Fork del famoso juego Wings of Glory. 
 
+<hr>
+
+Las modificaciones realizadas en la mecanica y el juego en si permiten:
+ - Minimizar la cantida de cartas.
+ - Uso de dados para definir daños.
+ - Reutilizacion de objetos (dados, cartas, etc).
+ - Calculos menos agresivos (podes subir los puntos de daño si queres liquidar más rapido)
+ - Reducciòn de costos para cada jugador.
+ - Maniobras extras
+ - Incluidas las imagenes de aviones para imprimir en papel.
+ - Opcional: Modelos en 3D para imprimir (aviones + tanques)
+ 
 <br>
 
 
@@ -28,3 +41,14 @@
 
 <br><br>
 [Daño y objetivos](Damage_and_objs.md)
+
+
+<br><br>
+### Copyright y fuentes de informaciòn
+Todos los datos fueron recopilados de los siguientes sitios. 
+
+
+- https://www.wingsofwar.org/forums/forum.php
+- https://www.aresgames.eu/games/ww1-wings-of-glory-line
+- https://www.facebook.com/WingsOfGloryMiniatureGame/
+
