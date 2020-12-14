@@ -3,22 +3,22 @@ Fork del famoso juego Wings of Glory.
 
 <hr>
 
-Las modificaciones realizadas en la mecanica y el juego en si permiten:
- - Minimizar la cantida de cartas.
+Las modificaciones realizadas en la mecánica y el juego en si permiten:
+ - Minimizar la cantidad de cartas.
  - Uso de dados para definir daños.
- - Reutilizacion de objetos (dados, cartas, etc).
- - Calculos menos agresivos (podes subir los puntos de daño si queres liquidar más rapido)
- - Reducciòn de costos para cada jugador.
+ - Reutilización de objetos (dados, cartas, etc).
+ - Calculos menos agresivos (podes subir los puntos de daño si queres liquidar más rápido)
+ - Reducción de costos para cada jugador.
  - Maniobras extras
- - Incluidas las imagenes de aviones para imprimir en papel.
+ - Incluidas las imágenes de aviones para imprimir en papel.
  - Opcional: Modelos en 3D para imprimir (aviones + tanques)
- - <img src="https://cdn.iconscout.com/icon/free/png-256/docker-7-569438.png" height="50" with="50"> Incluido Dockerfile para la "app" de daños (si no tienen dados buildeen la imagen) 
+  - <img src="https://cdn.iconscout.com/icon/free/png-256/docker-7-569438.png" height="50" with="50"> Incluido Dockerfile para la "app" de daños (si no tienen dados buildeen la imagen) 
  
 <br>
 
 
 
-### Miniaturas (3d Print) y Juguetes, cartas impresas en papel.
+### Miniaturas (3d Print) + Juguetes + cartas impresas en papel.
 <img src="Imagenes-juego-final/caja-completa.jpeg">
 <br>
 
@@ -26,7 +26,7 @@ Las modificaciones realizadas en la mecanica y el juego en si permiten:
 <img src="Imagenes-juego-final/tokens-plastico-a-mano.jpeg">
 <br>
 
-### Cartas impresas en gramaje 150g y diales (contadores) de carton (una caja de vinos)
+### Cartas impresas en gramaje 150g y diales (contadores) de cartón (una caja de vinos)
 <img src="Imagenes-juego-final/contadores-cartas.jpeg">
 <br>
 
