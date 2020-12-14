@@ -1,4 +1,4 @@
-# Daños por numero de dado (D20)
+# Daños por numero de dado <img src="https://www.gtsdistribution.com/images/kop18302_n.jpg" height="120" with="120">
 <pre>
 Dado	Daño	Descripcion del daño
 1	0	Timon giro Rojo
@@ -22,6 +22,7 @@ Dado	Daño	Descripcion del daño
 19	2	Daño
 20	Boom	Boom (Explosion del avion.)			  <------ Opcion A
 20	0	Atasco artillero (Repara en próximo turno)	  <------ Opcion B
+20	X	Daño masivo (Tira dado (D20), el numero que sale es daño puro) <------ Opcion C
 </pre>
 
 
