@@ -12,6 +12,7 @@ Las modificaciones realizadas en la mecanica y el juego en si permiten:
  - Maniobras extras
  - Incluidas las imagenes de aviones para imprimir en papel.
  - Opcional: Modelos en 3D para imprimir (aviones + tanques)
+ - <img src="https://cdn.iconscout.com/icon/free/png-256/docker-7-569438.png" height="50" with="50"> Incluido Dockerfile para la "app" de daños (si no tienen dados buildeen la imagen) 
  
 <br>
 
