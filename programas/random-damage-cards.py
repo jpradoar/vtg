@@ -1,3 +1,10 @@
+#---------------------------------------------------------------------------
+# python random-damage-cards.py
+# 	Damage: 4 + smoke
+#
+# python random-damage-cards.py 1
+#	5. UNA PESADA CARGA: Unos aviones intentan bombardear ....
+#---------------------------------------------------------------------------
 import random
 import sys
 
