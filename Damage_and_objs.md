@@ -1,31 +1,44 @@
-# Daños por numero de dado <img src="https://www.gtsdistribution.com/images/kop18302_n.jpg" height="120" with="120">
+# Juego con dados
+
+
+### Opcion 01 - Daños por numero de dado <img src="https://www.gtsdistribution.com/images/kop18302_n.jpg" height="120" with="120">
 <pre>
 Dado	Daño	Descripcion del daño
-1	0	Timon giro Rojo
-2	0	Falla
-3	0	Falla
-4	1	Daño
-5	1	Timon derecha atascado
-6	1	Timon izquierda atascado
-7	2	Timon derecha atascado
-8	2	Timon izquierda atascado
-9	2	Timon giro Rojo
-10	2	Timon giro Azul
-11	2	Fiego   (-1) x 2 turnos consecutivos
+1	0	Atasco timon (Impide realizar maniobras de tipo rojo en el siguiente turno)
+2	0	Falla, (No genera daño)
+3	0	Falla, (No genera daño)
+4	0	Falla, (No genera daño)
+5	1	Timon derecha atascado (Impide realizar maniobras de giro derecha en el siguiente turno)
+6	1	Timon izquierda atascado (Impide realizar maniobras de giro izquierda en el siguiente turno)
+7	2	Daño
+8	2	Daño
+9	2	Timon giro Rojo (Impide realizar maniobras de tipo rojo en el siguiente turno)
+10	2	Timon giro Azul (Impide realizar maniobras de tipo azul en el siguiente turno)
+11	2	Fiego ( -1x2, punto extra de daño por dos turnos consecurivos)
 12	3	Daño
-13	3	Timon atascado (solo maniobra recta)
-14	3	Daño piloto o artillero (no puede disparar)
+13	3	Timon atascado (Solo maniobra recta en el siguiente turno)
+14	3	Daño piloto o artillero (No puede disparar en el proximo turno)
 15	4	Daño
-16	4	Humo
+16	4	Humo (Debe declarar la siguiente maniobras antes de comenzar el proximo turno)
 17	5	Daño
-18	3	Daño tanque de combustible ( Fuel -3 )
+18	3	Daño tanque de combustible ( Pierde 3 puntos de combustible )
 19	2	Daño
 20	Boom	Boom (Explosion del avion.)			  <------ Opcion A
 20	0	Atasco artillero (Repara en próximo turno)	  <------ Opcion B
 20	X	Daño masivo (Tira dado (D20), el numero que sale es daño puro) <------ Opcion C
 </pre>
 
+<br>
 
+### Opcion 02 - Daños por numero de dado <img src="https://rpgmaisbarato.com/assets/upload/produtos/102018/95689_dado-d4-avulso-preto_5bbe84c1bc282.jpg" height="120" with="120"> + <img src="https://rpgmaisbarato.com/assets/upload/produtos/102018/95693_dado-d6-avulso-preto_5bbe86faa2a54.jpg" height="120" with="120">
+
+<pre>
+Tira 1D6: Menor o igual a 3 = Falla
+Tira 1D6: Mayor a 3 = Acierta
+
+Si Acierta tira 1D4 par calcular daño  (1 a 4)
+Si Acierta y està en rango minimo tira 2D4 (1 a 8)
+</pre>
 <br>
 
 
