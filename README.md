@@ -20,6 +20,7 @@ Las modificaciones realizadas en la mecánica y el juego en si permiten:
 
 ### Miniaturas (3d Print) + Juguetes + cartas impresas en papel.
 <img src="Imagenes-juego-final/caja-completa.jpeg">
+La escala original es de : 1/72 - 25mm a 28mm   -   Yo los hice de 45mm a 55mm
 <br>
 
 ### Tokens de plastico (A mano, con un cartel de la calle)
@@ -32,6 +33,7 @@ Las modificaciones realizadas en la mecánica y el juego en si permiten:
 
 ### Bases y soportes para minis
 <img src="Imagenes-juego-final/soportes-minis.jpeg">
+Las bases pequeñas miden 50mm x 55mm
 <br>
 
 
