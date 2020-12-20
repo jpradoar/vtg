@@ -33,8 +33,9 @@ Dado	Daño	Descripcion del daño
 ### Opcion 02 - Daños por numero de dado <img src="https://rpgmaisbarato.com/assets/upload/produtos/102018/95689_dado-d4-avulso-preto_5bbe84c1bc282.jpg" height="120" with="120"> + <img src="https://rpgmaisbarato.com/assets/upload/produtos/102018/95693_dado-d6-avulso-preto_5bbe86faa2a54.jpg" height="120" with="120">
 
 <pre>
-Tira 1D6: Menor o igual a 3 = Falla
-Tira 1D6: Mayor a 3 = Acierta
+Tira 1D6: número Par   = Acierta
+Tira 1D6: número Impar = Falla
+
 
 Si Acierta tira 1D4 par calcular daño  (1 a 4)
 Si Acierta y està en rango minimo tira 2D4 (1 a 8)
