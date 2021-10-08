@@ -43,7 +43,15 @@ Las bases pequeñas miden 50mm x 55mm
 <img src="Imagenes-juego-final/mesa-test-2.jpeg">
 
 <br><br>
-[Daño y objetivos](Damage_and_objs.md)
+
+# Para jugar rapido y sin vueltas.
+Imprimir lo siguiente:
+* [Cartas de aviones](https://github.com/jpradoar/WoG/blob/main/00-Print-to-play/Cartas-01.pdf)
+* [Cartas de giros](https://github.com/jpradoar/WoG/blob/main/00-Print-to-play/Cartas-02.pdf)
+* [Tablero de jugador](https://github.com/jpradoar/WoG/blob/main/00-Print-to-play/WoG-player-board%20-%20Hoja%201.pdf)
+* [Daño y objetivos](Damage_and_objs.md)
+* 1 dado de 20 caras (si no tenes podes usar cualquier app de dados.)
+* Las miniaturas no son necesarias (podes jugar re bien con las cartas) pero es mas cool si tenes las minis.
 
 
 <br><br>
