@@ -1,18 +1,20 @@
 # Wings of Glory  <img src="https://seeklogo.com/images/O/open-source-logo-55C3B4FF7B-seeklogo.com.png" height="60" with="60"> (Juego de mesa)
-Fork del famoso juego Wings of Glory. 
+Fork del famoso juego de mesa Wings of Glory. (hecho en casa)
 
 <hr>
 
-Las modificaciones realizadas en la mecánica y el juego en si permiten:
- - Minimizar la cantidad de cartas.
+En Argentina esta complicado conseguir el juego y las miniaturas, por tal motivo realice algunas modificaciones en la mecánica del juego que, si bien no modifican el juego real, benefician en la creación y jugabilidad del mismo.
+
+Las modificaciones realizadas en la mecánica del juego permiten:
+ - Minimizar la cantidad de cartas y tokens.
  - Uso de dados para definir daños.
- - Reutilización de objetos (dados, cartas, etc).
- - Calculos menos agresivos (podes subir los puntos de daño si queres liquidar más rápido)
- - Reducción de costos para cada jugador.
+ - Reutilización de objetos (dados, cartas, tokens, etc).
+ - Calculos menos agresivos (podes subir los puntos de daño si queres liquidar a tus enemigos más rápido)
  - Maniobras extras
- - Incluidas las imágenes de aviones para imprimir en papel.
- - Opcional: Modelos en 3D para imprimir (aviones + tanques)
-  - <img src="https://cdn.iconscout.com/icon/free/png-256/docker-7-569438.png" height="50" with="50"> Incluido Dockerfile para la "app" de daños (si no tienen dados buildeen la imagen) 
+ - Reducción de costo general del juego.
+ - Incluí las imágenes de aviones para imprimir en papel.
+ - Opcional: Modelos para imprimir con una impresora 3D (aviones + tanques)
+ - Incluido Dockerfile para la "app" de daños (si no tienen dados buildeen la imagen) <img src="https://cdn.iconscout.com/icon/free/png-256/docker-7-569438.png" height="50" with="50"> 
  
 <br>
 
