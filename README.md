@@ -1,9 +1,11 @@
-# Wings of Glory  <img src="https://seeklogo.com/images/O/open-source-logo-55C3B4FF7B-seeklogo.com.png" height="60" with="60"> (Juego de mesa)
-Fork del famoso juego de mesa Wings of Glory. (hecho en casa)
+# Cielo Abierto 
+
+### Cielo abierto es un juego de mesa basado en "Wings of Glory" pero Abierto a la comunidad <img src="https://seeklogo.com/images/O/open-source-logo-55C3B4FF7B-seeklogo.com.png" height="60" with="60">
+
 
 <hr>
 
-En Argentina esta complicado conseguir el juego y las miniaturas, por tal motivo realice algunas modificaciones en la mecánica del juego que, si bien no modifican el juego real, benefician en la creación y jugabilidad del mismo.
+En Argentina es complicado (casi imposible) conseguir el juego y las miniaturas, por tal motivo decidi realizar una version "Abierta" y armable con algunas modificaciones en la mecánica del juego que, si bien no modifican el juego, benefician en la creación y jugabilidad del mismo.
 
 Las modificaciones realizadas en la mecánica del juego permiten:
  - Minimizar la cantidad de cartas y tokens.
@@ -14,18 +16,18 @@ Las modificaciones realizadas en la mecánica del juego permiten:
  - Reducción de costo general del juego.
  - Incluí las imágenes de aviones para imprimir en papel.
  - Opcional: Modelos para imprimir con una impresora 3D (aviones + tanques)
- - Incluido Dockerfile para la "app" de daños (si no tienen dados buildeen la imagen) <img src="https://cdn.iconscout.com/icon/free/png-256/docker-7-569438.png" height="50" with="50"> 
+ - Opcional: una "app" de daños (Dockerfile) <img src="https://cdn.iconscout.com/icon/free/png-256/docker-7-569438.png" height="30" with="30"> 
  
 <br>
 
 
 
 ### Miniaturas (3d Print) + Juguetes + cartas impresas en papel.
-<img src="Imagenes-juego-final/caja-completa.jpeg">
+<img src="Imagenes-juego-final/piezas-basicas.jpeg">
 La escala original es de : 1/72 - 25mm a 28mm   -   Yo los hice de 45mm a 55mm
 <br>
 
-### Tokens de plastico (A mano, con un cartel de la calle)
+### Tokens de plastico 
 <img src="Imagenes-juego-final/tokens-plastico-a-mano.jpeg">
 <br>
 
@@ -39,7 +41,7 @@ Las bases pequeñas miden 50mm x 55mm
 <br>
 
 
-# Resultado final   :) 
+# Resultado final v0.1  :) 
 <img src="Imagenes-juego-final/mesa-test.jpeg">
 <br>
 <img src="Imagenes-juego-final/mesa-test-2.jpeg">
