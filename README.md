@@ -28,28 +28,29 @@ La escala original es de : 1/72 - 25mm a 28mm   -   Yo los hice de 45mm a 55mm
 <br>
 
 ### Tokens de plastico 
-<img src="Imagenes-juego-final/tokens-plastico-a-mano.jpeg">
+<img src="Imagenes-juego-final/tokens-plastico-a-mano.jpeg" height="300" with="300"> <img src="Imagenes-juego-final/tokens.png" height="250" with="250"> 
+<br>
 <br>
 
-### Cartas impresas en gramaje 150g y diales (contadores) de cartón (una caja de vinos)
-<img src="Imagenes-juego-final/contadores-cartas.jpeg">
+### Movimientos, bases, tokens y contadores
+<img src="Imagenes-juego-final/movimiento-simple.png" height="500" with="500"> <img src="Imagenes-juego-final/movimiento-completo.png" height="500" with="500">  <img src="Imagenes-juego-final/rango-ataque.png" height="500" with="500"> 
 <br>
 
 ### Bases y soportes para minis
-<img src="Imagenes-juego-final/soportes-minis.jpeg">
+<img src="Imagenes-juego-final/soportes-minis.jpeg" height="400" with="400">
 Las bases pequeñas miden 50mm x 55mm
 <br>
 
 
 # Resultado final v0.1  :) 
-<img src="Imagenes-juego-final/mesa-test.jpeg">
-<br>
-<img src="Imagenes-juego-final/mesa-test-2.jpeg">
+<img src="Imagenes-juego-final/mesa-test.jpeg" height="280" with="280"> <img src="Imagenes-juego-final/mesa-test-2.jpeg" height="280" with="280">
+
 
 <br><br>
 
 # Para jugar rapido y sin vueltas.
 Imprimir lo siguiente:
+* [Reglas](rules.md)
 * [Cartas de aviones](https://github.com/jpradoar/WoG/blob/main/00-Print-to-play/Cartas-01.pdf)
 * [Cartas de giros](https://github.com/jpradoar/WoG/blob/main/00-Print-to-play/Cartas-02.pdf)
 * [Tablero de jugador](https://github.com/jpradoar/WoG/blob/main/00-Print-to-play/WoG-player-board%20-%20Hoja%201.pdf)
