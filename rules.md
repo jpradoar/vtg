@@ -12,7 +12,9 @@
 </pre> 
 
 <br>
+
 ### CONFIGURACIÓN DEL JUEGO
+
 <br>
 
 <pre>
@@ -33,10 +35,10 @@ UNIDADES
 • Capacidad de carga: Cantidad de objetos extra que puede cargar. 
 </pre>
 
-
-
 <br>
+
 ### SECUENCIA DE JUEGO
+
 <br>
 
 ### FASE DE MOVIMIENTO
@@ -77,6 +79,25 @@ EJ: Este daño te impide realizar maniobras de giro a la derecha en el siguiente
 
 <br>
 
+### MOVIMIENTOS
+
+Los movimientos de la unidad se realizan a través de “cartas de movimiento” Estas tienen letras para indicar que tipo de movimiento es y números indicadores para el giro. El número al final de la flecha es el que deberás colocar en tu contador antes de iniciar la etapa de movimiento. 
+
+En la carta también verás un indicador de posición inicial y final, que deberán coincidir con el indicador de posición de la base de tu unidad. 
+
+Colocas la base de tu unidad, en la parte trasera de la carta, y para avanzar la colocas justo delante de la flecha indicadora de posición, alineada con el indicador de la base. 
+Recuerda que el contador y el token deben ir boca abajo y solo serán mostrados al momento de ejecutar el movimiento. 
+Solo si se encuentra en rango podrás disparar. El rango se mide con la regla desde el medio de tu base hasta la del objetivo, y el abanico de disparo es el que se muestra en la base.
+
+
+<br> 
+
+<img src="Imagenes-juego-final/movimiento-completo.png" height="400" with="400"> <img src="Imagenes-juego-final/movimiento-simple.png" height="400" with="400"> <img src="Imagenes-juego-final/rango-ataque.png" height="400" with="400">
+
+
+
+<br>
+
 ### EJEMPLO DE RONDA DE JUEGO (Ciclos)
 
 <pre>
@@ -114,6 +135,7 @@ EJ: Este daño te impide realizar maniobras de giro a la derecha en el siguiente
 </pre>
 
 <br><br>
+
 
 ### PUNTOS DE DAÑO  (1D20)
 
