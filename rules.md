@@ -111,7 +111,7 @@ EJ: Este daño te impide realizar maniobras de giro a la derecha en el siguiente
 
 # Ronda-02... 03 ...
   Vuelves a Fase de movimiento…
-
+</pre>
 
 <br><br>
 
