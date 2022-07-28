@@ -7,7 +7,7 @@
 
 <hr>
 
-En Argentina es complicado (casi imposible) conseguir el juego y las miniaturas, por tal motivo decidi realizar una version "Abierta" y armable con algunas modificaciones en la mecánica del juego que, si bien no modifican el juego, benefician en la creación y jugabilidad del mismo.
+En Argentina es complicado (casi imposible) conseguir el juego y las miniaturas, por tal motivo decidi realizar una version "Abierta y replicable" con algunas modificaciones que, si bien no modifican el juego en si, benefician en la creación y jugabilidad del mismo.
 
 Las modificaciones realizadas en la mecánica del juego permiten:
  - Minimizar la cantidad de cartas y tokens.
