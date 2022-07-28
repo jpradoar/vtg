@@ -51,8 +51,17 @@ La escala original es de : 1/72 - 25mm a 28mm   -   Yo los hice de 45mm a 55mm
 
 ### Bonus
 
-Y si te aburre las batallas clásicas solo con aviones, puedes batallar contra monstruos!!! (momento bizarro)
-<div align="center" > <img src="Imagenes-juego-final/mostros.png" height="280" with="280"> </div>
+...Y si te aburre las batallas clásicas solo con aviones, podes armar tus propios monstruos para la batalla!!! (momento bizarro)
+<div align="center" > 
+ <img src="Imagenes-juego-final/mostros.png" height="280" with="280"> 
+ <img src="Imagenes-juego-final/minis.png" height="280" with="280"> 
+ <img src="Imagenes-juego-final/nave-full.png" height="280" with="280"> 
+ <img src="Imagenes-juego-final/monsters-vs-spacecraft.png" height="280" with="280"> 
+
+</div>
+
+
+
 
 
 
