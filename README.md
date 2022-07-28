@@ -27,7 +27,7 @@ Las modificaciones realizadas en la mecánica del juego permiten:
 
 ### Miniaturas (3d Print) + Juguetes + cartas impresas en papel.
 <img src="Imagenes-juego-final/piezas-basicas.jpeg">
-La escala original es de : 1/72 - 25mm a 28mm   -   Yo los hice de 45mm a 55mm
+La escala es de 45mm a 55mm, pero si es un poco mas pequeño mejor. Las bases son de 50mm x 45mm
 <br>
 
 ### Tokens de plastico 
@@ -74,7 +74,7 @@ Imprimir lo siguiente:
 * [Cartas de aviones](https://github.com/jpradoar/WoG/blob/main/00-Print-to-play/Cartas-01.pdf)
 * [Cartas de giros](https://github.com/jpradoar/WoG/blob/main/00-Print-to-play/Cartas-02.pdf)
 * [Tablero de jugador](https://github.com/jpradoar/WoG/blob/main/00-Print-to-play/WoG-player-board%20-%20Hoja%201.pdf)
-* 1 dado de 20 caras (si no tenes podes usar cualquier app de dados.)
+* 1 dado de 6 caras (si no tenes podes usar cualquier app de dados.)
 * Las miniaturas no son necesarias (podes jugar re bien con las cartas) pero es mas cool si tenes las minis.
 
 
