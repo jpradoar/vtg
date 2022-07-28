@@ -50,43 +50,41 @@ UNIDADES
 <br>
 
 ### FASE DE MOVIMIENTO
-<pre>
+
 1. Los jugadores seleccionan sus unidades a mover junto con sus cartas de movimiento.
 2. Todos los jugadores toman los contadores y seleccionan el número de movimiento, (en la carta de movimiento veras los numeros), y lo colocan boca abajo a un lado de su unidad.
 3. Todos los jugadores al mismo tiempo dan vuelta sus contadores, colocan la carta de movimiento frente a la base y mueven la la unidad. 
-</pre>
+
 
 ### FASE DE ATAQUE
-<pre>
+
 Luego de la fase de movimiento podría ocurrir que una o varias unidades pudieran estar “en rango” de ataque. 
 
-A) Si alguna unidad está en rango (si la regla toca la base de la unidad enemiga) puedes disparar.  
-B) Si varias unidades están en rango todas pueden disparar al mismo tiempo.
-C) El jugador que indica el ataque debe tirar los dados para ver si acierta el disparo.    Dado: 1D6   ( 1-3 falla, 4-6 acierta)
+A) Si alguna unidad está en rango (si la regla toca la base de la unidad enemiga) puedes disparar.   
+B) Si varias unidades están en rango todas pueden disparar al mismo tiempo.    
+C) El jugador que indica el ataque debe tirar los dados para ver si acierta el disparo.    Dado: 1D6   ( 1-3 falla, 4-6 acierta).    
 D) Si una unidad (aliada o enemiga) está en la línea de fuego no podrá disparar al objetivo detrás de ella. En el caso que dispares recibirá daño la primer unidad que esté en la línea de tu regla de rango. 
 
-</pre>
 
 ### FASE DE DAÑO
 
-<pre>
-1 Si el jugador que dispara, acierta, el jugador o unidad objetivo (jugador que recibe el daño) debera tomar un token de daño.
 
+1 Si el jugador que dispara, acierta, el jugador o unidad objetivo (jugador que recibe el daño) debera tomar un token de daño.    
 2. Algunos disparos tienen daño colateral que pueden generar algún tipo de daño o falla extra, 
-Si el token de daño no tiene daño colateral, deberas colocarlo boca abajo sobre la carta de tu unidad.
-Por el contrario, si el token de daño tiene daño colateral, deberas colocarlo boca abajo sobre la base de la unidad (miniatura)
+   - Si el token de daño no tiene daño colateral, deberas colocarlo boca abajo sobre la carta de tu unidad.    
+   - Por el contrario, si el token de daño tiene daño colateral, deberas colocarlo boca abajo sobre la base de la unidad (miniatura).    
+    
+Ejemplo:   
+A) El jugador contrario acierta sobre ti.  Tomas un token de daño.    
+B) Si el token de daño tiene un "daño colateral" que, por ejemplo, impide realizar maniobras de giro a la derecha (1 - TD), lo colcas boca abajo sobre la base de tu unidad.     
+C) En la fase de movimiento de tu próximo turno deberás dar vuelta el el token junto con tu contador de movimiento y continuar con la ronda.    
+D) Una vez finalizada la fase de movimiento del nuevo turno deberas quitar el token de la base de tu unidad y colocarlo boca abajo sobre la carta de unidad ).
+    
+    
+3. Al finalizar todas las fases, todos los jugadores deberan descontar al menos 1 punto de Combustible.    
+ 
+4. Después de completar la Fase de daños finaliza la ronda. Comprueba si alguno de los jugadores ha ganado. El jugador gana si todas las unidades enemigas fueron destruidas. 
 
-EJ: 
-    A) El jugador contrario acierta sobre ti.  Tomas un token de daño.
-    B) Si el token de daño tiene un "daño colateral" que, por ejemplo, impide realizar maniobras de giro a la derecha (1 - TD), lo colcas boca abajo sobre la base de tu unidad. 
-    C) En la fase de movimiento de tu próximo turno deberás dar vuelta el el token junto con tu contador de movimiento y continuar con la ronda.
-    D) Una vez finalizada la fase de movimiento del nuevo turno deberas quitar el token de la base de tu unidad y colocarlo boca abajo sobre la carta de unidad ).
-
-3. Al finalizar todas las fases, todos los jugadores deberan descontar al menos 1 punto de Combustible.
-
-4. Después de completar la Fase de daños finaliza la ronda. Comprueba si alguno de los jugadores ha ganado. 
-El jugador gana si todas las unidades enemigas fueron destruidas. 
-</pre>
 
 <br>
 
