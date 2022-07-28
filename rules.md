@@ -12,9 +12,9 @@ Crea tus propias estrategias, forma alianzas, destruye bases enemigas, o bien el
 |Nombre: | Detalle| 
 |---     | ---    |
 |Unidades| (Miniaturas o cartas) Necesitarás por lo menos 2 unidades por jugador, pueden ser miniaturas o bien cartas de unidades. |
-|Dados   | Necesitas 1 dado de 20 caras o bien 4 de 6 caras.  Estos serán para definir los daños |
-|Marcadores o tokens| Se utilizan para marcar el estado de una situación o futura acción posible o no posible |
-|Daños y problemáticas| (Ver apartado Daños) |
+|Dados   | Necesitas 1 dado de 6 caras (1D6) |
+|Marcador de maniobras| Se utilizan para marcar el estado de una situación o futura acción posible |
+|Tokens de daños| para definir los aciertos o fallas |
 |Contador| Indicador de posiciones a mover. |
 |Regla de rango| Distancia de ataque al oponente (puedes usar una regla de 20cm) |
 </pre> 
@@ -28,17 +28,19 @@ Crea tus propias estrategias, forma alianzas, destruye bases enemigas, o bien el
 <pre>
 POSICIONES
 • Se plantea una superficie plana de 1x1 mts.  
+• Cada jugador elige una carta de unidad y la coloca frente a él (esta sera solo para llevar el control de salud).
 • Cada jugador elige sus unidades y las coloca (frente a él) a 1 cm del borde del mapa 
-• Puedes navegar por cualquier lugar dentro de los límites del mapa
+• Puedes moverte por cualquier lugar dentro de los límites del mapa
+• No puedes colocar tu unidad a menos de 2 reglas de distancia de tu oponente. 
 • Si sales del límite del mapa estarás automáticamente destruido. 
 • Puedes chocar con los objetos que hay en el mapa (naves enemigas, aliadas, u objetos en el espacio).
 
 
 UNIDADES 
-• Altura: La altura en la cual se puede mover
-• Tipo de movimiento: (Letra) Tipo de movimiento posible en cada jugada
-• Salud: El numero de puntos de vida que tiene la nave
-• Combustible: La cantidad total de energía restante para movilizarse 
+• Altura: La altura en la cual se puede mover.
+• Tipo de movimiento: (Letra) movimiento posible en cada jugada.
+• Salud: El numero de puntos de vida que tiene la unidad.
+• Combustible: La cantidad total restante para movilizarse.
 • Capacidad de carga: Cantidad de objetos extra que puede cargar. 
 </pre>
 
@@ -59,38 +61,37 @@ UNIDADES
 <pre>
 Luego de la fase de movimiento podría ocurrir que una o varias unidades pudieran estar “en rango” de ataque. 
 
-A) El jugador que inicia el ataque debe tirar los dados para ver si acierta el disparo. (el número debe ser igual o mayor al valor de Salud que tiene la unidad objetivo. 
-Ej:   Unidad-A = 6   quien dispara deberá sacar 6 o más para acertar su disparo 
-B) Si alguna unidad está en rango (si la regla toca la base de la unidad enemiga) esta puede disparar.  
-C) Si varias unidades están en rango todas pueden disparar al mismo tiempo.
-D) Si una unidad (aliada o enemiga) está en la línea de fuego no podrá disparar al objetivo detrás de ella. En el caso que dispares recibirá daño la unidad que esté en la línea de tu regla de rango. 
+A) Si alguna unidad está en rango (si la regla toca la base de la unidad enemiga) esta puede disparar.  
+B) Si varias unidades están en rango todas pueden disparar al mismo tiempo.
+C) El jugador que indica el ataque debe tirar los dados para ver si acierta el disparo.    Dado: 1D6   ( 1-3 falla, 4-6 acierta)
+D) Si una unidad (aliada o enemiga) está en la línea de fuego no podrá disparar al objetivo detrás de ella. En el caso que dispares recibirá daño la primer unidad que esté en la línea de tu regla de rango. 
 
 </pre>
 
 ### FASE DE DAÑO
 
 <pre>
-1 Quién recibe daño, debera tirar el dado y descontar los puntos de daño en su tabla de daños/salud.   
+1 Si el jugador que dispara, acierta, el jugador o unidad objetivo (jugador que recibe el daño) debera tomar un token de daño.
 
-2. Algunos disparos tienen daño colateral (token) lo cual implica que puede generar algún tipo de falla extra, para lo cual, deberas colocar el token boca abajo en la base de tu unidad. En el próximo turno deberás jugar con ese token.
-EJ: Este daño te impide realizar maniobras de giro a la derecha en el siguiente turno. 
-(En tu próximo turno, deberás dar vuelta el token junto con tu contador de movimiento. Una vez finalizado el turno podrás quitar el token).
+2. Algunos disparos tienen daño colateral que pueden generar algún tipo de daño o falla extra, para lo cual, deberas colocar un "MARCADOR DE MANIOBRA" en la base de tu unidad. 
+EJ: 
+    A) El jugador contrario acierta sobre ti.  Tomas un token de daño y lo dejas boca abajo sobre la carta de tu unidad. 
+    B) Si el token de daño tambien tiene un "daño colateral" que impide realizar maniobras de giro a la derecha. Tomas "marcador de maniobra" lo colcas boca abajo sobre la base de tu unidad. 
+    C) En la fase de movimiento de tu próximo turno deberás dar vuelta el "marcador de maniobra" junto con tu contador de movimiento. 
+    D) Una vez finalizado el turno podrás quitar el "marcador de maniobra").
 
-3. Al finalizar todas las fases, deberás descontar 1 punto de Combustible.
+3. Al finalizar todas las fases, todos los jugadores deberan descontar al menos 1 punto de Combustible.
 
-4. Después de completar la Fase de daños el turno finaliza. Comprueba si alguno de los jugadores ha ganado. El jugador gana si todas las unidades enemigas fueron destruidas. 
+4. Después de completar la Fase de daños finaliza la ronda. Comprueba si alguno de los jugadores ha ganado. 
+El jugador gana si todas las unidades enemigas fueron destruidas. 
 </pre>
 
 <br>
 
-<div align="center"><img src="Imagenes-juego-final/tabla-ejemplo.png" height="400" with="400"></div>
-
-
-<br>
 
 ### MOVIMIENTOS
 
-Los movimientos de la unidad se realizan a través de “cartas de movimiento” Estas tienen letras para indicar que tipo de movimiento es y números indicadores para el giro. El número al final de la flecha es el que deberás colocar en tu contador antes de iniciar la etapa de movimiento. 
+Los movimientos de la unidad se realizan a través de “cartas de movimiento” Estas tienen letras para indicar que tipo de maniobra puede realizar tu unidad y números indicadores para el movimiento. cualquiera de los numeros que estan al final de cada flecha es el que deberás colocar en tu contador antes de iniciar la etapa de movimiento. 
 
 En la carta también verás un indicador de posición inicial y final, que deberán coincidir con el indicador de posición de la base de tu unidad. 
 
@@ -130,12 +131,13 @@ Solo si se encuentra en rango podrás disparar. El rango se mide con la regla de
 
 ### Ciclo-02
     Pasas la fase de movimiento y entras en ataque.
-    Chequeas si tanto tú como tus oponentes están en tu rango. 
+    Chequeas si tanto tú como tus oponentes están en rango de ataque. 
     Si alguno de los jugadores esta en rango, tira los dados para ver si acierta o falla. 
-    Si tu oponente te acierta, deberas tirar los dados para calcular tu daño  (Recibes daño  ej: "+1 y Timón derecha atascado")
+    Si tu oponente acierta, deberas tomar un token de daño.
     
-  
 ###Ciclo-03
+    Imaginando que tomas un token de daño = (1 + TD)
+    Tomas el token y lo colocas boca abajo sobra la carta de un unidad.
     Quitas 1 punto de vida a tu unidad y colocas el token de “timón derecho atascado” boca abajo y continúas con la ronda. 
     Quitas 1 punto de combustible.
 
@@ -149,65 +151,20 @@ Solo si se encuentra en rango podrás disparar. El rango se mide con la regla de
 <br><br>
 
 
-### PUNTOS DE DAÑO  (1D20)
+### MARCADORES DE MANIOBRA
 
-|Num |   Daño  |  Descripción del daño |
-| ---| ---     | --- | 
-|1  |  0 |   Atasco timón (Impide realizar maniobras de tipo rojo en el siguiente turno) |
-|2  |  0 |   Falla, (No genera daño) |
-|3  |  0 |   Falla, (No genera daño) |
-|4  |  0 |   Falla, (No genera daño) |
-|5  |  1 |   Timón derecha atascado (Impide realizar maniobras de giro en el siguiente turno) |
-|6  |  1 |   Timón izquierda atascado (Impide realizar maniobras de giro en el siguiente turno) |
-|7  |  2 |   Daño |
-|8  |  2 |   Daño |
-|9  |  2 |   Timón giro Rojo (Impide realizar maniobras de tipo rojo en el siguiente turno) |
-|10 |  2 |   Timón giro Azul (Impide realizar maniobras de tipo azul en el siguiente turno) |
-|11 |  2 |   Fuego ( - 1 x 2 resta un punto de daño por dos turnos consecutivos)	|
-|12 |  3 |   Daño |
-|13 |  3 |   Timón atascado (Sólo maniobra recta en el siguiente turno) |
-|14 |  3 |   Daño piloto o artillero (No puede disparar en el próximo turno) |
-|15 |  4 |   Daño |
-|16 |  4 |   Humo (Debe declarar la siguiente maniobras antes de comenzar el próximo turno) |
-|17 |  5 |   Daño |
-|18 |  3 |   Daño tanque de combustible ( Pierde 3 puntos de combustible ) |
-|19 |  2 |   Daño |
-|20 |  Boom|    Opciona: Boom (Explosion del avion.) |
-|20 |  0 |   Opciona: Atasco artillero (Repara en próximo turno) |
-|20 |  X |   Opciona: Daño masivo (Tira dado (D20), el número que sale es daño puro) |
-
-
-### PUNTOS DE DAÑO  (4D6)
-
-|Num |   Daño  |  Descripción del daño |
-| ---| ---     | --- | 
-|4  |  0  |  Falla, (No genera daño) |
-|5  |  0  |  Falla, (No genera daño) |
-|6  |  0  |  Falla, (No genera daño) |
-|7  |  0  |  Atasco timón (Impide realizar maniobras de tipo rojo en el siguiente turno) |
-|8  |  1  |  Timón izquierda atascado (Impide realizar maniobras de giro en el siguiente turno) |
-|9  |  2  |  Daño |
-|10 |   2 |   Daño |
-|11 |   2 |   Timón giro Rojo (Impide realizar maniobras de tipo rojo en el siguiente turno) |
-|12 |   2 |   Timón giro Azul (Impide realizar maniobras de tipo azul en el siguiente turno) |
-|13 |   2 |   Fuego ( - 1 x 2 resta un punto de daño por dos turnos consecutivos)	|
-|14 |   3 |   Daño |
-|15 |   3 |   Timón atascado (Sólo maniobra recta en el siguiente turno) |
-|16 |   3 |   Daño piloto o artillero (No puede disparar en el próximo turno) |
-|17 |   4 |   Daño |
-|18 |   4 |   Humo (Debe declarar la siguiente maniobras antes de comenzar el próximo turno) |
-|19 |   5 |   Daño |
-|20 |   3 |   Daño falla eléctrica  ( Pierde 3 puntos de energía ) |
-|21 |   2 |   Daño |
-|22 |   Boom|    Opciona: Boom (Explosion del avion.) |
-|23 |   0 |   Opciona: Atasco artillero (Repara en próximo turno) |
-|24 |   X |   Opciona: Daño masivo (Tira dado (3d6), el número que sale es daño puro) |
-
+<div align="center"><img src="Imagenes-juego-final/tokens.png" height="300" with="300"></div>
 
 <br>
 
-### Referencia Toneks (pendiente de terminar)
-|	TOKEN	|	REF	|
+
+### TOKENS DE DAÑO COLATERAL
+<div align="center"><img src="Imagenes-juego-final/puntos-de-daño.png" height="300" with="300"></div>
+
+<br>
+
+### DAÑO COLATERAL (referencia)
+|	TOKEN	|	DESCRIPCION	|
 |	--- 	|	--- 	|
 |	TR	|	Atasco timón (Impide realizar maniobras de tipo rojo en el siguiente turno)	|
 |	C	|  	Daño tanque de combustible ( Pierde 3 puntos de combustible )	|
