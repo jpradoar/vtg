@@ -13,7 +13,6 @@ Crea tus propias estrategias, forma alianzas, destruye bases enemigas, o bien el
 |---     | ---    |
 |Unidades| (Miniaturas o cartas) Necesitarás por lo menos 2 unidades por jugador, pueden ser miniaturas o bien cartas de unidades. |
 |Dados   | Necesitas 1 dado de 6 caras (1D6) |
-|Marcador de maniobras| Se utilizan para marcar el estado de una situación o futura acción posible |
 |Tokens de daños| para definir los aciertos o fallas |
 |Contador| Indicador de posiciones a mover. |
 |Regla de rango| Distancia de ataque al oponente (puedes usar una regla de 20cm) |
@@ -53,7 +52,7 @@ UNIDADES
 ### FASE DE MOVIMIENTO
 <pre>
 1. Los jugadores seleccionan sus unidades a mover junto con sus cartas de movimiento.
-2. Todos los jugadores colocan los contadores con el número de movimiento boca abajo a un lado de su unidad.
+2. Todos los jugadores toman los contadores y seleccionan el número de movimiento, (en la carta de movimiento veras los numeros), y lo colocan boca abajo a un lado de su unidad.
 3. Todos los jugadores al mismo tiempo dan vuelta sus contadores, colocan la carta de movimiento frente a la base y mueven la la unidad. 
 </pre>
 
@@ -61,7 +60,7 @@ UNIDADES
 <pre>
 Luego de la fase de movimiento podría ocurrir que una o varias unidades pudieran estar “en rango” de ataque. 
 
-A) Si alguna unidad está en rango (si la regla toca la base de la unidad enemiga) esta puede disparar.  
+A) Si alguna unidad está en rango (si la regla toca la base de la unidad enemiga) puedes disparar.  
 B) Si varias unidades están en rango todas pueden disparar al mismo tiempo.
 C) El jugador que indica el ataque debe tirar los dados para ver si acierta el disparo.    Dado: 1D6   ( 1-3 falla, 4-6 acierta)
 D) Si una unidad (aliada o enemiga) está en la línea de fuego no podrá disparar al objetivo detrás de ella. En el caso que dispares recibirá daño la primer unidad que esté en la línea de tu regla de rango. 
@@ -73,12 +72,15 @@ D) Si una unidad (aliada o enemiga) está en la línea de fuego no podrá dispar
 <pre>
 1 Si el jugador que dispara, acierta, el jugador o unidad objetivo (jugador que recibe el daño) debera tomar un token de daño.
 
-2. Algunos disparos tienen daño colateral que pueden generar algún tipo de daño o falla extra, para lo cual, deberas colocar un "MARCADOR DE MANIOBRA" en la base de tu unidad. 
+2. Algunos disparos tienen daño colateral que pueden generar algún tipo de daño o falla extra, 
+Si el token de daño no tiene daño colateral, deberas colocarlo boca abajo sobre la carta de tu unidad.
+Por el contrario, si el token de daño tiene daño colateral, deberas colocarlo boca abajo sobre la base de la unidad (miniatura)
+
 EJ: 
-    A) El jugador contrario acierta sobre ti.  Tomas un token de daño y lo dejas boca abajo sobre la carta de tu unidad. 
-    B) Si el token de daño tambien tiene un "daño colateral" que impide realizar maniobras de giro a la derecha. Tomas "marcador de maniobra" lo colcas boca abajo sobre la base de tu unidad. 
-    C) En la fase de movimiento de tu próximo turno deberás dar vuelta el "marcador de maniobra" junto con tu contador de movimiento. 
-    D) Una vez finalizado el turno podrás quitar el "marcador de maniobra").
+    A) El jugador contrario acierta sobre ti.  Tomas un token de daño.
+    B) Si el token de daño tiene un "daño colateral" que, por ejemplo, impide realizar maniobras de giro a la derecha (1 - TD), lo colcas boca abajo sobre la base de tu unidad. 
+    C) En la fase de movimiento de tu próximo turno deberás dar vuelta el el token junto con tu contador de movimiento y continuar con la ronda.
+    D) Una vez finalizada la fase de movimiento del nuevo turno deberas quitar el token de la base de tu unidad y colocarlo boca abajo sobre la carta de unidad ).
 
 3. Al finalizar todas las fases, todos los jugadores deberan descontar al menos 1 punto de Combustible.
 
@@ -113,7 +115,7 @@ Solo si se encuentra en rango podrás disparar. El rango se mide con la regla de
 
 <pre>
 # Ronda-inicial (Posiciones)
-    Seleccione las unidades para la batalla
+    Seleccione las unidades para la batalla (miniaturas y cartas)
     Seleccione la carta de movimiento para tus unidades.
     Coloque las unidades en posición
     Inicia la partida. 
@@ -136,24 +138,19 @@ Solo si se encuentra en rango podrás disparar. El rango se mide con la regla de
     Si tu oponente acierta, deberas tomar un token de daño.
     
 ###Ciclo-03
-    Imaginando que tomas un token de daño = (1 + TD)
-    Tomas el token y lo colocas boca abajo sobra la carta de un unidad.
-    Quitas 1 punto de vida a tu unidad y colocas el token de “timón derecho atascado” boca abajo y continúas con la ronda. 
+    Tomas un token de daño 
+        Si tiene daño colateral (1 + TD ) lo colocas boca abajo sobre la base de un unidad.
+        Si NO tiene daño colateral ( 2 ) lo colocas sobre la carta de tu unidad.
+    Quitas 1 punto de vida a tu unidad y continúas con la ronda. 
     Quitas 1 punto de combustible.
+        Si tenias daño colateral en tu proxima ronda deberas mostrarlo, realizar la fase de movimiento y luego colocarlo sobre la carta de unidad.
 
-    En el siguiente turno podrás realizar cualquier movimiento excepto el indicado por el token, es decir, colocas tu contador de movimiento, luego la carta, das vuelta el token y finalmente realizas el movimiento para luego continuar con la fase de ataque y fase de daños. Luego de terminar dicha fase podrás quitar el token.  
+    En el siguiente turno podrás realizar cualquier movimiento excepto el indicado por el token, es decir, colocas tu contador de movimiento, luego la carta, das vuelta el token y finalmente realizas el movimiento para luego continuar con la fase de ataque y fase de daños. 
     Es posible que en la misma ronda te vuelvan a disparar con daño colateral, así que en el próximo turno quitaras el token actual y colocaras el nuevo token (si es que recibes daño colateral). De lo contrario quedarás limpio de daños colaterales (tokens)
 
 # Ronda-02... 03 ...
   Vuelves a Fase de movimiento…
 </pre>
-
-<br><br>
-
-
-### MARCADORES DE MANIOBRA
-
-<div align="center"><img src="Imagenes-juego-final/tokens.png" height="300" with="300"></div>
 
 <br>
 
