@@ -1,6 +1,6 @@
-# Cielo Abierto 
+# VUELO TÁCTICO DE GUERRA (V.T.G.)
 
-### Cielo abierto es un juego de mesa basado en "Wings of Glory" pero Abierto a la comunidad <img src="https://seeklogo.com/images/O/open-source-logo-55C3B4FF7B-seeklogo.com.png" height="60" with="60">
+### VTG es un juego de mesa basado en "Wings of Glory" pero Abierto a la comunidad <img src="https://seeklogo.com/images/O/open-source-logo-55C3B4FF7B-seeklogo.com.png" height="60" with="60">
 
 
 <hr>
