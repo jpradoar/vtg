@@ -1,7 +1,9 @@
 # VUELO TÁCTICO DE GUERRA (V.T.G.)
 
-### VTG es un juego de mesa basado en "Wings of Glory" pero Abierto a la comunidad <img src="https://seeklogo.com/images/O/open-source-logo-55C3B4FF7B-seeklogo.com.png" height="60" with="60">
+### VTG es un juego de mesa abierto a la comunidad basado en "Wings of Glory" <img src="https://seeklogo.com/images/O/open-source-logo-55C3B4FF7B-seeklogo.com.png" height="60" with="60">
 
+
+<div align="center"><img src="Imagenes-juego-final/vtg-logo.png" height="100" with="100"> </div>
 
 <hr>
 
@@ -44,6 +46,17 @@ Las bases pequeñas miden 50mm x 55mm
 
 # Resultado final v0.1  :) 
 <img src="Imagenes-juego-final/mesa-test.jpeg" height="280" with="280"> <img src="Imagenes-juego-final/mesa-test-2.jpeg" height="280" with="280">
+
+
+
+<br><br>
+
+### Bonus
+
+Y si te aburre las batallas clásicas solo con aviones, puedes batallar contra monstruos!!! (momento bizarro)
+<div align="center" > <img src="Imagenes-juego-final/mostros.png" height="280" with="280"> </div>
+
+
 
 
 <br><br>
