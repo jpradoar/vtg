@@ -11,14 +11,13 @@ En Argentina es complicado (casi imposible) conseguir el juego y las miniaturas,
 
 Las modificaciones realizadas en la mecánica del juego permiten:
  - Minimizar la cantidad de cartas y tokens.
- - Uso de dados para definir daños.
+ - Uso de tokens para definir daños.
  - Reutilización de objetos (dados, cartas, tokens, etc).
  - Calculos menos agresivos (podes subir los puntos de daño si queres liquidar a tus enemigos más rápido)
  - Maniobras extras
  - Reducción de costo general del juego.
  - Incluí las imágenes de aviones para imprimir en papel.
  - Opcional: Modelos para imprimir con una impresora 3D (aviones + tanques)
- - Opcional: una "app" de daños (Dockerfile) <img src="https://cdn.iconscout.com/icon/free/png-256/docker-7-569438.png" height="30" with="30"> 
  
 <br>
 
