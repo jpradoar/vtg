@@ -163,7 +163,7 @@ Solo si se encuentra en rango podrás disparar. El rango se mide con la regla de
 |8  |  2 |   Daño |
 |9  |  2 |   Timón giro Rojo (Impide realizar maniobras de tipo rojo en el siguiente turno) |
 |10 |  2 |   Timón giro Azul (Impide realizar maniobras de tipo azul en el siguiente turno) |
-|11 |  2 |   Fiego ( -1x2, punto extra de daño por dos turnos consecutivos) |
+|11 |  2 |   Fuego ( - 1 x 2 resta un punto de daño por dos turnos consecutivos)	|
 |12 |  3 |   Daño |
 |13 |  3 |   Timón atascado (Sólo maniobra recta en el siguiente turno) |
 |14 |  3 |   Daño piloto o artillero (No puede disparar en el próximo turno) |
@@ -190,7 +190,7 @@ Solo si se encuentra en rango podrás disparar. El rango se mide con la regla de
 |10 |   2 |   Daño |
 |11 |   2 |   Timón giro Rojo (Impide realizar maniobras de tipo rojo en el siguiente turno) |
 |12 |   2 |   Timón giro Azul (Impide realizar maniobras de tipo azul en el siguiente turno) |
-|13 |   2 |   Fiego ( -1x2, punto extra de daño por dos turnos consecutivos) |
+|13 |   2 |   Fuego ( - 1 x 2 resta un punto de daño por dos turnos consecutivos)	|
 |14 |   3 |   Daño |
 |15 |   3 |   Timón atascado (Sólo maniobra recta en el siguiente turno) |
 |16 |   3 |   Daño piloto o artillero (No puede disparar en el próximo turno) |
@@ -203,3 +203,21 @@ Solo si se encuentra en rango podrás disparar. El rango se mide con la regla de
 |23 |   0 |   Opciona: Atasco artillero (Repara en próximo turno) |
 |24 |   X |   Opciona: Daño masivo (Tira dado (3d6), el número que sale es daño puro) |
 
+
+<br>
+
+### Referencia Toneks (pendiente de terminar)
+|	TOKEN	|	REF	|
+|	--- 	|	--- 	|
+|	TR	|	Atasco timón (Impide realizar maniobras de tipo rojo en el siguiente turno)	|
+|	C	|  	Daño tanque de combustible ( Pierde 3 puntos de combustible )	|
+|	TD	|	Timón derecha atascado (Impide realizar maniobras de giro en el siguiente turno)	|
+|	TI	|	Timón izquierda atascado (Impide realizar maniobras de giro en el siguiente turno)	|
+|	GR	|	Timón giro Rojo (Impide realizar maniobras de tipo rojo en el siguiente turno)	|
+|	GA	|	Timón giro Azul (Impide realizar maniobras de tipo azul en el siguiente turno)	|
+|	F	|	Fuego ( - 1 x 2 resta un punto de daño por dos turnos consecutivos)	|
+|	TA	|	Timón atascado (Sólo maniobra recta en el siguiente turno)	|
+|	P	|	Daño piloto o artillero (No puede disparar en el próximo turno)	|
+|	H	|	Humo (Debe declarar la siguiente maniobras antes de comenzar el próximo turno)	|
+|	X	|	Opciona: Boom (Explosion del avion.)	|
+|	X	|	Opciona: Daño masivo (Tira dado (1d6), el número que sale es daño puro)	|
