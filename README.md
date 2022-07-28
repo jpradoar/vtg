@@ -42,7 +42,7 @@ La escala original es de : 1/72 - 25mm a 28mm   -   Yo los hice de 45mm a 55mm
 <br>
 
 
-# Resultado final v0.1-beta
+# Resultado final y prueba de concepto  (v0.1-beta)
 <img src="Imagenes-juego-final/mesa-test.jpeg" height="280" with="280"> <img src="Imagenes-juego-final/mesa-test-2.jpeg" height="280" with="280">
 
 
