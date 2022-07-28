@@ -19,6 +19,8 @@ Las modificaciones realizadas en la mecánica del juego permiten:
  - Incluí las imágenes de aviones para imprimir en papel.
  - Opcional: Modelos para imprimir con una impresora 3D (aviones + tanques)
  
+ - No son necesarias las miniaturas, pero es mas lindo si estan. 
+ Algunas son impresas en 3D, otras pequeños juguetes de plástico y hay también hechas con broches + basura reciclada y pintada. 
 <br>
 
 
