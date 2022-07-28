@@ -38,13 +38,10 @@ La escala original es de : 1/72 - 25mm a 28mm   -   Yo los hice de 45mm a 55mm
 <img src="Imagenes-juego-final/movimiento-simple.png" height="500" with="500"> <img src="Imagenes-juego-final/movimiento-completo.png" height="500" with="500">  <img src="Imagenes-juego-final/rango-ataque.png" height="500" with="500"> 
 <br>
 
-### Bases y soportes para minis
-<img src="Imagenes-juego-final/soportes-minis.jpeg" height="400" with="400">
-Las bases pequeñas miden 50mm x 55mm
 <br>
 
 
-# Resultado final v0.1  :) 
+# Resultado final v0.1-beta
 <img src="Imagenes-juego-final/mesa-test.jpeg" height="280" with="280"> <img src="Imagenes-juego-final/mesa-test-2.jpeg" height="280" with="280">
 
 
