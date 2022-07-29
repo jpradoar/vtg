@@ -86,11 +86,6 @@ Imprimir lo siguiente:
 
 
 <br><br><br>
-### Copyright y fuentes de informaciòn
-Todos los datos fueron recopilados de los siguientes sitios. 
-
-
-- https://www.wingsofwar.org/forums/forum.php
-- https://www.aresgames.eu/games/ww1-wings-of-glory-line
-- https://www.facebook.com/WingsOfGloryMiniatureGame/
+#### Copyright y fuentes de informaciòn
+Todos los datos fueron recopilados de los siguientes sitios: [Foro - wingsofwar](https://www.wingsofwar.org/forums/forum.php), [aresgames](https://www.aresgames.eu/games/ww1-wings-of-glory-line), [WoG - Fb](https://www.facebook.com/WingsOfGloryMiniatureGame/)
 
