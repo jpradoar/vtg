@@ -159,17 +159,4 @@ Solo si se encuentra en rango podrás disparar. El rango se mide con la regla de
 <br>
 
 ### DAÑO COLATERAL (referencia)
-|	TOKEN	|	DESCRIPCION	|
-|	--- 	|	--- 	|
-|	TR	|	Atasco timón (Impide realizar maniobras de tipo rojo en el siguiente turno)	|
-|	C	|  	Daño tanque de combustible ( Pierde 3 puntos de combustible )	|
-|	TD	|	Timón derecha atascado (Impide realizar maniobras de giro en el siguiente turno)	|
-|	TI	|	Timón izquierda atascado (Impide realizar maniobras de giro en el siguiente turno)	|
-|	GR	|	Timón giro Rojo (Impide realizar maniobras de tipo rojo en el siguiente turno)	|
-|	GA	|	Timón giro Azul (Impide realizar maniobras de tipo azul en el siguiente turno)	|
-|	F	|	Fuego ( - 1 x 2 resta un punto de daño por dos turnos consecutivos)	|
-|	TA	|	Timón atascado (Sólo maniobra recta en el siguiente turno)	|
-|	P	|	Daño piloto o artillero (No puede disparar en el próximo turno)	|
-|	H	|	Humo (Debe declarar la siguiente maniobras antes de comenzar el próximo turno)	|
-|	X	|	Opciona: Boom (Explosion del avion.)	|
-|	X	|	Opciona: Daño masivo (Tira dado (1d6), el número que sale es daño puro)	|
+<div align="center"><img src="Imagenes-juego-final/puntos-de-daño-ref.png" height="300" with="300"></div>
