@@ -1,8 +1,10 @@
 ### VUELO TÁCTICO DE GUERRA (V.T.G.)
 
+ 
 Vuelo táctico de guerra (VTG) es un juego de guerra de miniaturas de combate para 2 o más jugadores (no hay limite maximo, de jugadores). Cuando se combinan algunas miniaturas, una regla (o cinta métrica), una serie de cartas y algunos dados, este libro de reglas proporciona todo lo que necesitas para jugar a emocionantes y tensas partidas de exploración y combate. 
 
 Crea tus propias estrategias, forma alianzas, destruye bases enemigas, o bien eliminar a tus oponentes sin más! y demuestra que tienes lo necesario para dominar los cielos!!!  
+* Aclaración: aún no esta terminado al 100%, por lo cual algunas cosas pueden faltar o no estar detalladas. 
 
 
 
