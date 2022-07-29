@@ -26,12 +26,18 @@ Las modificaciones realizadas en la mecánica del juego permiten:
 
 
 ### Miniaturas (3d Print) + Juguetes + cartas impresas en papel.
-<img src="Imagenes-juego-final/piezas-basicas.jpeg">
+
+<div align="center"><img src="Imagenes-juego-final/piezas-basicas.jpeg">
 La escala es de 45mm a 55mm, pero si es un poco mas pequeño mejor. Las bases son de 50mm x 45mm
+ </div>
 <br>
 
-### Tokens de plastico 
-<img src="Imagenes-juego-final/tokens-plastico-a-mano.jpeg" height="300" with="300"> <img src="Imagenes-juego-final/tokens.png" height="250" with="250"> 
+### Tokens para imprimir
+<div align="center">
+<img src="Imagenes-juego-final/puntos-de-daño.png" height="300" with="300">
+
+Los podes imprimir de tamaño A4
+ </div>
 <br>
 <br>
 
