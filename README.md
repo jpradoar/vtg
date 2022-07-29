@@ -49,7 +49,8 @@ Los podes imprimir de tamaño A4
 
 
 # Resultado final y prueba de concepto  (v0.1-beta)
-<img src="Imagenes-juego-final/mesa-test.jpeg" height="280" with="280"> <img src="Imagenes-juego-final/mesa-test-2.jpeg" height="280" with="280">
+<img src="Imagenes-juego-final/mesa-test-2.jpeg" height="280" with="280"> <img src="Imagenes-juego-final/test-final-v2.jpg" height="280" with="280">
+
 
 
 
@@ -59,10 +60,10 @@ Los podes imprimir de tamaño A4
 
 ...Y si te aburre las batallas clásicas solo con aviones, podes armar tus propios monstruos para la batalla!!! (momento bizarro)
 <div align="center" > 
- <img src="Imagenes-juego-final/mostros.png" height="280" with="280"> 
- <img src="Imagenes-juego-final/minis.png" height="280" with="280"> 
- <img src="Imagenes-juego-final/nave-full.png" height="280" with="280"> 
- <img src="Imagenes-juego-final/monsters-vs-spacecraft.png" height="280" with="280"> 
+ <img src="Imagenes-juego-final/monster-running.jpg" height="150" with="150"> 
+ <img src="Imagenes-juego-final/minis.png" height="150" with="150"> 
+ <img src="Imagenes-juego-final/nave-full.png" height="150" with="150"> 
+ <img src="Imagenes-juego-final/monsters-vs-spacecraft.png" height="150" with="150"> 
 
 </div>
 
