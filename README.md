@@ -76,15 +76,16 @@ Los podes imprimir de tamaño A4
 
 # Para jugar rapido y sin vueltas.
 Imprimir lo siguiente:
-* [Reglas](rules.md)
+* [Reglas](rules.md) (Opcional, podes consultarlas online)
 * [Cartas de aviones](https://github.com/jpradoar/WoG/blob/main/00-Print-to-play/Cartas-01.pdf)
 * [Cartas de giros](https://github.com/jpradoar/WoG/blob/main/00-Print-to-play/Cartas-02.pdf)
-* [Tablero de jugador](https://github.com/jpradoar/WoG/blob/main/00-Print-to-play/WoG-player-board%20-%20Hoja%201.pdf)
+* [Tokens](https://github.com/jpradoar/vtg/blob/main/Imagenes-juego-final/puntos-de-da%C3%B1o.png)
+* [Referencia de tokens](https://github.com/jpradoar/vtg/blob/main/Imagenes-juego-final/puntos-de-da%C3%B1o-ref.png) (Opcional, también lo podes consultar online).
 * 1 dado de 6 caras (si no tenes podes usar cualquier app de dados.)
 * Las miniaturas no son necesarias (podes jugar re bien con las cartas) pero es mas cool si tenes las minis.
 
 
-<br><br>
+<br><br><br>
 ### Copyright y fuentes de informaciòn
 Todos los datos fueron recopilados de los siguientes sitios. 
 
