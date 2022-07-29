@@ -1,9 +1,9 @@
 # VUELO TÁCTICO DE GUERRA (V.T.G.)
 
-### VTG es un juego de mesa abierto a la comunidad basado en "Wings of Glory" <img src="https://seeklogo.com/images/O/open-source-logo-55C3B4FF7B-seeklogo.com.png" height="60" with="60">
-
-
 <div align="center"><img src="Imagenes-juego-final/vtg-logo.png" height="100" with="100"> </div>
+<br>
+
+<div align="center"><h4>VTG es un juego de mesa abierto a la comunidad basado en "Wings of Glory" <img src="https://seeklogo.com/images/O/open-source-logo-55C3B4FF7B-seeklogo.com.png" height="25" with="25"> </h4></div>
 
 <hr>
 
